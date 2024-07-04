@@ -13,7 +13,7 @@ def init_page():
         page_title="My Great ChatGPT",
         page_icon="🤗"
     )
-    st.header("My Great ChatGPT 🤗")
+    st.header("My Great ChatGPT created by Shunya🤗")
     st.sidebar.title("Options")
 
 
